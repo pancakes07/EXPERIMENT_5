@@ -1,3 +1,15 @@
-Aim:
+Aim:to perform multiple operations on tuple
 
-Algorithm
+Algorithm:
+1.Start.
+2.Create a tuple containing the elements 20, 40, 60, 80, and 100.
+3.Display the tuple.
+4.Display the first and last elements of the tuple.
+5.Find and display the length of the tuple.
+6.Count and display the number of times 20 occurs in the tuple.
+7.Find and display the index of element 60.
+8.Find and display the maximum and minimum elements of the tuple.
+9.Calculate and display the sum of all tuple elements.
+10.Check whether 40 is present in the tuple and display the result.
+11.Convert the tuple into a list and display the list.
+12.Convert the list back into a tuple and display
